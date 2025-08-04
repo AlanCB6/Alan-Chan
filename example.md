@@ -1,7 +1,7 @@
 # if - else
 La estructura if-else permite ejecutar diferentes bloques de código dependiendo de si una condición se cumple o no.
 
-###Sintaxis
+### sintaxis
 
 if (condición) {
     // Código si la condición es verdadera
@@ -37,7 +37,7 @@ Si no se cumplen las dos condiciones anteriores, significa que el número es 0.
 # switch - case
 La estructura switch-case permite evaluar múltiples casos en función del valor de una variable.
 
-###Sintaxis
+### Sintaxis
 
 switch (variable) {
     case valor1:
@@ -134,5 +134,5 @@ int main() {
 }
 C++
 # Conclusión
-- item 1 if-else permite tomar decisiones en el código.
-- item 2 switch-case es útil cuando hay múltiples opciones fijas.
+- item if-else permite tomar decisiones en el código.
+- item switch-case es útil cuando hay múltiples opciones fijas.
