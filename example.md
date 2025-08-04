@@ -134,5 +134,5 @@ int main() {
 }
 C++
 # Conclusión
-1 item if-else permite tomar decisiones en el código.
-2 item switch-case es útil cuando hay múltiples opciones fijas.
+- item 1 if-else permite tomar decisiones en el código.
+- item 2 switch-case es útil cuando hay múltiples opciones fijas.
